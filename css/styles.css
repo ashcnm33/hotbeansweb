@@ -210,7 +210,7 @@ button[type="submit"]:hover {
 }
 
 
-.courses {
+#courses {
     display: flex;
     gap: 20px;
     justify-content: center;
@@ -280,6 +280,10 @@ footer {
     background-color: #290b3a;
     color: white;
     margin-top: 20px;
+}
+
+footer p {
+    margin: 0;
 }
 
 #title {
