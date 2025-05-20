@@ -30,6 +30,13 @@ header {
     margin-right: 40px;
 }
 
+@media (max-width: 600px) {
+  #mypage {
+    padding: 60px 15px;
+    background-position: top;
+    background-size: contain;
+  }
+}
 
 #contentarea {
     height: auto;
