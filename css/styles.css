@@ -23,9 +23,23 @@ header {
 }
 
 
-.logo {
+/* .logo {
     height: 100px;
     margin-right: 40px;
+} */
+
+.logo {
+    max-width: 100%;
+    height: auto;
+    width: 120px;
+    display: block;
+    margin: 0 auto;
+}
+
+@media (max-width: 600px) {
+    .logo {
+        width: 100px;
+    }
 }
 
 #contentarea {
