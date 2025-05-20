@@ -53,7 +53,7 @@ header {
     border-radius: 8px;
 }
 
-.company_profile img {
+#company_profile img {
     margin-left: 300px;
 }
 
@@ -420,4 +420,25 @@ footer p {
         grid-template-columns: 1fr 1fr 1fr;
         gap: 20px;
     }
+}
+
+@media (max-width: 600px) {
+    .logo {
+        width: 150px;
+        height: auto;
+        display: block;
+        margin: 0 auto;
+    }
+}
+
+.team {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+.members {
+    flex: 1 1 250px;
+    max-width: 300px;
 }
