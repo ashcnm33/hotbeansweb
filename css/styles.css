@@ -24,7 +24,7 @@ header {
 
 
 .navbar {
-  font-family: 'Arial', sans-serif;
+  font-family: 'Snell Roundhand' , cursive;
 }
 
 .logo {
@@ -43,7 +43,10 @@ header {
 
 @media (max-width: 600px) {
     .logo {
-        width: 100px;
+        width: 90px;
+        height: auto;
+        display: block;
+        margin: 0 auto;
     }
 }
 
