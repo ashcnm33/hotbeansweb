@@ -40,8 +40,9 @@ header {
 }
 
 
-.navbar {
+.navbar h1 {
   font-family: 'Snell Roundhand' , cursive;
+  color: #c0c0c0;
 }
 
 .logo {
