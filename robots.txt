@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://hotbeansweb.netlify.app/sitemap.xml
+Sitemap: https://ashcnm33.github.io/hotbeansweb/sitemap.xml
