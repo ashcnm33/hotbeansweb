@@ -177,6 +177,10 @@ header {
     color: #ffffff;
 }
 
+.am p {
+  font-size: large;
+}
+
 .jobs {
     background-color: #e4d7eb;
     border-radius: 8px;
